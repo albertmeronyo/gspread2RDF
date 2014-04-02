@@ -1,0 +1,371 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://iconclass.org/11Q733> ns1:exactMatch <http://cedar.example.org/ns#hisco-6100> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/14A> ns1:exactMatch <http://cedar.example.org/ns#hisco-17140> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/23U241> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/25D32> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/31A5311> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41A3912> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41A681> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41A721> ns1:exactMatch <http://cedar.example.org/ns#hisco-81120> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41A7633> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41A775> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41B1311> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41B31> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41B33> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41C612> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41C625> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41D2641> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41D26511> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41D26611> ns1:exactMatch <http://cedar.example.org/ns#hisco-88010> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41D422> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/41D4411> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/42E272> ns1:exactMatch <http://cedar.example.org/ns#hisco-99910> ;
+    ns1:prefLabel "None",
+        "grave digger" .
+
+<http://iconclass.org/42F32> ns1:exactMatch <http://cedar.example.org/ns#hisco-94220>,
+        <http://cedar.example.org/ns#hisco-94230>,
+        <http://cedar.example.org/ns#hisco-94240> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/43C114> ns1:exactMatch <http://cedar.example.org/ns#hisco-64960> ;
+    ns1:prefLabel "hunter" .
+
+<http://iconclass.org/43C128> ns1:exactMatch <http://cedar.example.org/ns#hisco-64100> ;
+    ns1:prefLabel "fisherman" .
+
+<http://iconclass.org/43C244> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/44B1> ns1:exactMatch <http://cedar.example.org/ns#hisco-45125> ;
+    ns1:prefLabel "ruler, sovereign" .
+
+<http://iconclass.org/44G16> ns1:exactMatch <http://cedar.example.org/ns#hisco-12110> ;
+    ns1:prefLabel "lawyer, attorney at law" .
+
+<http://iconclass.org/45D322> ns1:exactMatch <http://cedar.example.org/ns#hisco-45125> ;
+    ns1:prefLabel "officer" .
+
+<http://iconclass.org/46A14> ns1:exactMatch <http://cedar.example.org/ns#hisco-61110> ;
+    ns1:prefLabel "farmers" .
+
+<http://iconclass.org/46B21> ns1:exactMatch <http://cedar.example.org/ns#hisco-45125> ;
+    ns1:prefLabel "hunter" .
+
+<http://iconclass.org/46B3311> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/46C13161> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/46C145> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/46C2325> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/46C24111> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/46C2711> ns1:exactMatch <http://cedar.example.org/ns#hisco-98135> ;
+    ns1:prefLabel "seaman" .
+
+<http://iconclass.org/47B1> ns1:exactMatch <http://cedar.example.org/ns#hisco-12110>,
+        <http://cedar.example.org/ns#hisco-16150>,
+        <http://cedar.example.org/ns#hisco-64100>,
+        <http://cedar.example.org/ns#hisco-75490>,
+        <http://cedar.example.org/ns#hisco-75990>,
+        <http://cedar.example.org/ns#hisco-79565>,
+        <http://cedar.example.org/ns#hisco-88010>,
+        <http://cedar.example.org/ns#hisco-93120> ;
+    ns1:prefLabel "None",
+        "handicrafts, craftsman at work" .
+
+<http://iconclass.org/47B11> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B111> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B1112> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B112> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B115> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B122> ns1:exactMatch <http://cedar.example.org/ns#hisco-88010> ;
+    ns1:prefLabel "diamond polisher, diamond cutter" .
+
+<http://iconclass.org/47B131> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B141> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B152> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B153> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B161> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B1611> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990>,
+        <http://cedar.example.org/ns#hisco-95410> ;
+    ns1:prefLabel "None",
+        "carpenter" .
+
+<http://iconclass.org/47B1613> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B1712> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B1811> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990>,
+        <http://cedar.example.org/ns#hisco-77610> ;
+    ns1:prefLabel "None",
+        "baker" .
+
+<http://iconclass.org/47B1812> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B1814> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B1821> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47B192> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47C435> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47D8%28KNIFE%29> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47G311> ns1:exactMatch <http://cedar.example.org/ns#hisco-95140> ;
+    ns1:prefLabel "mason at work" .
+
+<http://iconclass.org/47G332> ns1:exactMatch <http://cedar.example.org/ns#hisco-95720> ;
+    ns1:prefLabel "glazing (window panes, leaded lights, etc.), glazier at work" .
+
+<http://iconclass.org/47G3361> ns1:exactMatch <http://cedar.example.org/ns#hisco-87105> ;
+    ns1:prefLabel "plumber" .
+
+<http://iconclass.org/47H1> ns1:exactMatch <http://cedar.example.org/ns#hisco-75240> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47H13> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47H14> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47H41> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47H51> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47H54> ns1:exactMatch <http://cedar.example.org/ns#hisco-79565> ;
+    ns1:prefLabel "embroidering ~ textile industry" .
+
+<http://iconclass.org/47H71> ns1:exactMatch <http://cedar.example.org/ns#hisco-79100> ;
+    ns1:prefLabel "tailor, dressmaker" .
+
+<http://iconclass.org/47H72> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47H73> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47H75> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47I88> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/47L22> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/48C21> ns1:exactMatch <http://cedar.example.org/ns#hisco-16120> ;
+    ns1:prefLabel "sculptor at work" .
+
+<http://iconclass.org/48C311> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/48C313> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/48C314> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/48C315> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990>,
+        <http://cedar.example.org/ns#hisco-79565> ;
+    ns1:prefLabel "None",
+        "tapestry weaver, gobelin maker" .
+
+<http://iconclass.org/48C316> ns1:exactMatch <http://cedar.example.org/ns#hisco-94220>,
+        <http://cedar.example.org/ns#hisco-94230>,
+        <http://cedar.example.org/ns#hisco-94240>,
+        <http://cedar.example.org/ns#hisco-95420> ;
+    ns1:prefLabel "None",
+        "joiner, cabinet maker, 'ébéniste'" .
+
+<http://iconclass.org/48C5112> ns1:exactMatch <http://cedar.example.org/ns#hisco-93120> ;
+    ns1:prefLabel "painter at work, in his studio" .
+
+<http://iconclass.org/48C5312> ns1:exactMatch <http://cedar.example.org/ns#hisco-16150> ;
+    ns1:prefLabel "engraver, etcher" .
+
+<http://iconclass.org/48C72> ns1:exactMatch <http://cedar.example.org/ns#hisco-17140> ;
+    ns1:prefLabel "musician" .
+
+<http://iconclass.org/48C73> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/49B24> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/49E391> ns1:exactMatch <http://cedar.example.org/ns#hisco-12110> ;
+    ns1:prefLabel "alchemist at work" .
+
+<http://iconclass.org/49G1> ns1:exactMatch <http://cedar.example.org/ns#hisco-6100> ;
+    ns1:prefLabel "physician, doctor" .
+
+<http://iconclass.org/49G11> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/49G82> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/49L641> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/49M11> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/49M123> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://iconclass.org/49M5> ns1:exactMatch <http://cedar.example.org/ns#hisco-75990> ;
+    ns1:prefLabel "None" .
+
+<http://cedar.example.org/ns#hisco-16120> ns1:prefLabel "Sculptor" .
+
+<http://cedar.example.org/ns#hisco-61110> ns1:prefLabel "General Farmer" .
+
+<http://cedar.example.org/ns#hisco-64960> ns1:prefLabel "Trapper and Hunter" .
+
+<http://cedar.example.org/ns#hisco-75240> ns1:prefLabel "Twister" .
+
+<http://cedar.example.org/ns#hisco-75490> ns1:prefLabel "Other Weavers and Related Workers" .
+
+<http://cedar.example.org/ns#hisco-77610> ns1:prefLabel "Baker, General" .
+
+<http://cedar.example.org/ns#hisco-79100> ns1:prefLabel "Tailor, Specialisation Unknown" .
+
+<http://cedar.example.org/ns#hisco-81120> ns1:prefLabel "Cabinetmaker" .
+
+<http://cedar.example.org/ns#hisco-87105> ns1:prefLabel "Plumber, General" .
+
+<http://cedar.example.org/ns#hisco-95140> ns1:prefLabel "Stonemason (Construction)" .
+
+<http://cedar.example.org/ns#hisco-95410> ns1:prefLabel "Carpenter, General" .
+
+<http://cedar.example.org/ns#hisco-95420> ns1:prefLabel "Joiner" .
+
+<http://cedar.example.org/ns#hisco-95720> ns1:prefLabel "Building Glazier" .
+
+<http://cedar.example.org/ns#hisco-98135> ns1:prefLabel "Seaman, Able or Ordinary" .
+
+<http://cedar.example.org/ns#hisco-99910> ns1:prefLabel "Labourer",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-16150> ns1:prefLabel "Engraver and Etcher (Artistic)",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-17140> ns1:prefLabel "-",
+        "Instrumentalist" .
+
+<http://cedar.example.org/ns#hisco-6100> ns1:prefLabel "Medical Doctor, Specialisation Unknown",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-64100> ns1:prefLabel "Fisherman, Deep-Sea or Inland and Coastal Water",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-93120> ns1:prefLabel "Building Painter",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-94220> ns1:prefLabel "Basketmaker" .
+
+<http://cedar.example.org/ns#hisco-94230> ns1:prefLabel "Brush Maker (Hand)" .
+
+<http://cedar.example.org/ns#hisco-94240> ns1:prefLabel "Broom Maker (Hand)" .
+
+<http://cedar.example.org/ns#hisco-12110> ns1:prefLabel "-",
+        "Lawyer",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-45125> ns1:prefLabel "-",
+        "Salesperson, Wholesale or Retail Trade" .
+
+<http://cedar.example.org/ns#hisco-79565> ns1:prefLabel "Embroiderer, Hand or Machine",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-88010> ns1:prefLabel "Jeweller, General",
+        "None" .
+
+<http://cedar.example.org/ns#hisco-75990> ns1:prefLabel "None",
+        "Other Spinners, Weavers, Knitters, Dyers and Related Workers" .
+
